@@ -1,0 +1,6 @@
+2023-Nov-12 13:17:21,271 [main] com.bellatrix.stepDefination.Cart_Page 
+  INFO  Button NameView cart
+2023-Nov-12 13:17:34,386 [main] com.bellatrix.stepDefination.Cart_Page 
+  INFO  Product= Falcon 9
+2023-Nov-12 13:17:47,195 [main] com.bellatrix.stepDefination.Cart_Page 
+  INFO  Price= 50.00€

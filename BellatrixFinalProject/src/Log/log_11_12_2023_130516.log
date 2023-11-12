@@ -1,0 +1,6 @@
+2023-Nov-12 13:05:05,033 [main] com.bellatrix.stepDefination.Login_Page 
+  INFO  my account page successfully openHome / My account
+2023-Nov-12 13:05:06,932 [main] com.bellatrix.stepDefination.Login_Page 
+  ERROR error msgError: The password field is empty.
+2023-Nov-12 13:05:16,972 [main] com.bellatrix.stepDefination.Login_Page 
+  INFO  my account page successfully openHome / My account
